@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0258-add-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
