@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
