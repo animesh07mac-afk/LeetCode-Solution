@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -45,4 +46,12 @@
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
