@@ -12,6 +12,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
