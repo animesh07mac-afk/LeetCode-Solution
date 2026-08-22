@@ -14,6 +14,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
