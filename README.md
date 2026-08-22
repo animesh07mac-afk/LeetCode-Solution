@@ -26,6 +26,7 @@
 | [0258-add-digits](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0258-add-digits) |
 | [3099-harshad-number](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
