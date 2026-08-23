@@ -16,6 +16,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Stack
 |  |
 | ------- |
