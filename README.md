@@ -24,6 +24,7 @@
 | [0045-jump-game-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
@@ -96,4 +98,8 @@
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
