@@ -14,6 +14,7 @@
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -146,4 +148,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
