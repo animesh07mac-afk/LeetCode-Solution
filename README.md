@@ -23,6 +23,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+| [3903-smallest-stable-index-i](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
