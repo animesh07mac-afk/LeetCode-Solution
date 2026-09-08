@@ -11,6 +11,7 @@
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0525-contiguous-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
@@ -32,6 +33,7 @@
 | [0055-jump-game](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
