@@ -40,6 +40,7 @@
 | [3099-harshad-number](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
