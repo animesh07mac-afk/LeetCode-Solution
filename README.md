@@ -16,6 +16,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,10 +150,12 @@
 | [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -159,4 +163,5 @@
 | [0542-01-matrix](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
