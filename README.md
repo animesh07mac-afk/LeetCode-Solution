@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1927-sum-game](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2418-sort-the-people](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3498-reverse-degree-of-a-string](https://github.com/animesh07mac-afk/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
